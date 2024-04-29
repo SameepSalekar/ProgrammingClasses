@@ -4,6 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop03 World!");
+        Scripture _scripture = new Scripture();
+        Reference _reference = new Reference();
+        Word _word = new Word();
+        
     }
 }
